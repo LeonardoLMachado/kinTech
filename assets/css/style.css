@@ -11,4 +11,9 @@
     overflow: hidden;
 }
 
+main {
+    background: url(../images/bg.png) no-repeat;
+    background-size: cover;
+    height: 92vh;
+  }
 

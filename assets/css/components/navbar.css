@@ -21,12 +21,6 @@ nav {
   height: 8vh;
 }
 
-main {
-  background: url(../images/bg.png) no-repeat center center;
-  background-size: cover;
-  height: 92vh;
-}
-
 .nav-list {
   display: flex;
 }
